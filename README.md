@@ -5,9 +5,9 @@ Studienprojekt Satellitenbilder
 
 Participants:
 -    Professor Dr. Sebastian Fischer
--    Oskar Thaute
--    Minh Hai Nguyen
--    Laurin Pausch
+-    Oskar Thaute 
+-    Minh Hai Nguyen (s_nguyenmi21@stud.hwr-berlin.de) -> Bei Fragen
+-    Laurin Pausch 
 
 Protocolling: Laurin Pausch, 13.01.23 12.00 pm - 12.50 pm
 
