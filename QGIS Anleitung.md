@@ -6,7 +6,7 @@ https://www.qgis.org/de/site/forusers/download.html
 
 ## Einbinden der Satelittenquellen in QGIS:
 
-Links im Browser können verschiedene Quellen eingebunden werden:
+Links im Fenster können verschiedene Quellen eingebunden werden:
 
 ArcGIS REST Server: https://tiledbasemaps.arcgis.com/arcgis/rest/services/World_Imagery/MapServer
 
@@ -23,4 +23,5 @@ WMS/WMTS:
 ## Für den Export der Bilder aus QGIS:
 	1.Im Reiter Projekt „Import/Export“
 	2.Karte als Bild speichern
+	
 Exportiert den dargestellten Bereich als (geo)Tif
