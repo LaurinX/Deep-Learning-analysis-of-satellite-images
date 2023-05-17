@@ -30,3 +30,18 @@ QGis gutes Programm für Geodaten/bilder, aber keine Automatisierung
 
 QGis plugins: Semi-Automatic classification Plugin, sentinel hub
 
+## Rastervision Documentation
+
+https://docs.rastervision.io/en/0.20/
+
+## Rastervision Examples
+
+https://docs.rastervision.io/en/0.20/framework/examples.html -> speziell da das Projekt ISPRS Potsdam
+
+## Rastervision Execution
+
+### rastervision predict <model bundle> <infile> <outfile>
+
+-> die infiles und das modelbundle hatten wir immer als aws-Links eingefügt, die wir auf der amazon cloud gespeichert hatten. 
+-> das outfile ist der pfad für das ergebnis der prediction
+
